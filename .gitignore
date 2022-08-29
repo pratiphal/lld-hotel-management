@@ -1,5 +1,10 @@
 # Prerequisites
 *.d
+*.vscode
+*.DS_Store
+
+# Main compiled output file
+*Main 
 
 # Compiled Object files
 *.slo
